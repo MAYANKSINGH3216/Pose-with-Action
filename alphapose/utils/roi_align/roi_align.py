@@ -84,4 +84,8 @@ class RoIAlign(nn.Module):
         format_str += '(out_size={}, spatial_scale={}, sample_num={}'.format(
             self.out_size, self.spatial_scale, self.sample_num)
         format_str += ', use_torchvision={})'.format(self.use_torchvision)
-        return format_str
+        return format_str (gross_wages +
+          taxable_interest +
+          (dividends - qualified_dividends)
+          ira_deduction -
+          student_loan_interest)
